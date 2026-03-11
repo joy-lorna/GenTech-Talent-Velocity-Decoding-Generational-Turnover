@@ -23,4 +23,3 @@ I have published a comprehensive project write-up on Kaggle, detailing the metho
 
 ## 🚀 How to Access
 1. **Read the Full Report:** [Kaggle Write-up](https://www.kaggle.com/writeups/joylorna/gentech-talent-velocity-decoding-generational-tur)
-2. **Explore the Code:** View the `.ipynb` files in this repository.
