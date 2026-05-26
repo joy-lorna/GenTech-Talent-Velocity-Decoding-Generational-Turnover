@@ -1,25 +1,34 @@
-# GenTech-Talent-Velocity-Decoding-Generational-Turnover
+# GenTech Talent Velocity: Decoding Generational Turnover
 
 An Excel-based HR Analytics case study identifying the 12-month retention cliff and technical talent drain.
 
-This repository contains the analysis and codebase for the **GenTech Talent Velocity** project. The core focus of this study is to decode the drivers of generational turnover and predict employee attrition patterns.
+## Executive Summary
 
-## 📖 Project Write-up
-I have published a comprehensive project write-up on Kaggle, detailing the methodology, exploratory data analysis (EDA), and final insights.
+GenTech Solutions, a leading technology firm, faced a critical "leaky bucket" in its talent pipeline, specifically regarding 12-month retention rates. This analysis investigated generational trends to determine if a "one-size-fits-all" HR policy was contributing to high turnover. The findings revealed a severe retention cliff for Generation Z (13.7 months average tenure) and Millennials, particularly in technical roles. This report provides a data-driven roadmap to stabilize the workforce through milestone-based interventions and targeted mentorship.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Project_Writeup-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/writeups/joylorna/gentech-talent-velocity-decoding-generational-tur)
+## Business Problem & Objectives
+The leadership at GenTech suspected that different generational cohorts (Baby Boomers, Gen X, Millennials, and Gen Z) had divergent workplace needs that were not being met, leading to fluctuating turnover.
 
-**Key Highlights of the Write-up:**
-* **Generational Analysis:** How turnover varies between Gen Z, Millennials, and Gen X.
-* **Feature Engineering:** Identifying key velocity indicators in talent movement.
-* **Model Insights:** Breakdown of the predictive factors behind employee churn.
+**Primary Objectives:**
 
----
+* Segment the workforce into generational cohorts to analyze tenure and exit patterns.
+* Identify "Danger Zone" departments where turnover is significantly higher than the company average.
+* Evaluate the ROI of training investments against employee lifecycle length.
+* Propose actionable, generation-specific HR strategies to improve retention.
 
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Environment:** Kaggle Notebooks
-* **Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn
+## Key Findings
 
-## 🚀 How to Access
-1. **Read the Full Report:** [Kaggle Write-up](https://www.kaggle.com/writeups/joylorna/gentech-talent-velocity-decoding-generational-tur)
+* The 12-Month Cliff: Generation Z has the shortest average tenure (13.7 months). The "Leaky Bucket" tenure category (7-12 months) is most densely populated by Gen Z and Millennials.
+* Technical Talent Drain: Software Engineering is the highest-risk department for Gen Z, with an average tenure of only 12.0 months.
+* The Investment Gap: GenTech spends approximately $561 per employee on training regardless of age. Because Gen Z stays 5 months less than Baby Boomers, the company is losing significant ROI on younger hires.
+* Leadership Anchors: Baby Boomers provide organizational stability in Executive and Admin roles, with tenures exceeding 27 months.
+* Performance Insight: Gen Z represents a high volume of "Strong Performers" (82 exits), indicating that GenTech is losing its top future talent prematurely.
+
+## Tech Stack
+* Google sheets
+* Google docs
+* Google presentation
+
+## How would you handle a 12-month retention cliff in a tech firm?
+
+© 2026 Joy Lorna Muiruri
