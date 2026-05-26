@@ -1,3 +1,5 @@
+<img width="500" height="278" alt="506e6ccb7dde7005295b3f55d19317c5" src="https://github.com/user-attachments/assets/335d8c8e-10f2-4f04-9db8-652b127ed40f" />   
+
 # GenTech Talent Velocity: Decoding Generational Turnover
 
 An Excel-based HR Analytics case study identifying the 12-month retention cliff and technical talent drain.
@@ -29,6 +31,8 @@ The leadership at GenTech suspected that different generational cohorts (Baby Bo
 * Google docs
 * Google presentation
 
+
 ## How would you handle a 12-month retention cliff in a tech firm?
+
 
 © 2026 Joy Lorna Muiruri
